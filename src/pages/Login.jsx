@@ -2,7 +2,7 @@
 
 const Login = () => {
     return (
-        <div><h1 className="font-thin">로그인</h1></div>
+        <div><h1 className="font-thin">영수그만</h1></div>
     )
 }
 
